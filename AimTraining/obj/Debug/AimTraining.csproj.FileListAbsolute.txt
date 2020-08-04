@@ -1,0 +1,11 @@
+C:\Users\facec\source\repos\AimTraining\AimTraining\bin\Debug\AimTraining.exe.config
+C:\Users\facec\source\repos\AimTraining\AimTraining\bin\Debug\AimTraining.exe
+C:\Users\facec\source\repos\AimTraining\AimTraining\bin\Debug\AimTraining.pdb
+C:\Users\facec\source\repos\AimTraining\AimTraining\obj\Debug\AimTraining.csprojAssemblyReference.cache
+C:\Users\facec\source\repos\AimTraining\AimTraining\obj\Debug\AimTraining.Properties.Resources.resources
+C:\Users\facec\source\repos\AimTraining\AimTraining\obj\Debug\AimTraining.csproj.GenerateResource.cache
+C:\Users\facec\source\repos\AimTraining\AimTraining\obj\Debug\AimTraining.csproj.CoreCompileInputs.cache
+C:\Users\facec\source\repos\AimTraining\AimTraining\obj\Debug\AimTraining.exe
+C:\Users\facec\source\repos\AimTraining\AimTraining\obj\Debug\AimTraining.pdb
+C:\Users\facec\source\repos\AimTraining\AimTraining\obj\Debug\AimTraining.Resource.resources
+C:\Users\facec\source\repos\AimTraining\AimTraining\obj\Debug\AimTraining.Game.resources
